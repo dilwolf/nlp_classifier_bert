@@ -10,6 +10,9 @@ from tqdm import tqdm
 
 
 class BertModel():
+    '''
+    This class defines our BERT model architecture
+    '''
     def __init__(self,model_conf,num_labels,inference_flag=False):
         self.model_conf = model_conf
         if inference_flag:
