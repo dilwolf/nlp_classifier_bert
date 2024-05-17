@@ -6,9 +6,8 @@ This project focuses on training a BERT model for various NLP classification tas
 ### Set up
 
 1. Clone the repository
-
-- $ git clone https://github.com/dilwolf/nlp_classifier_bert.git
-- $ cd nlp_classifier_bert
+- `$ git clone https://github.com/dilwolf/nlp_classifier_bert.git`
+- `$ cd nlp_classifier_bert`
 
 ### Python
 
@@ -21,11 +20,11 @@ This project focuses on training a BERT model for various NLP classification tas
 
 4. Run train script
 
-- $ python training.py
+- ` $ python training.py`
 
 5. Run Inference script
 
-- $ python batch_inference.py
+- ` $ python batch_inference.py`
 
 ### Docker
 - `$ docker build . -t nlp_classifier`
