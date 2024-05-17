@@ -1,0 +1,8 @@
+notebook
+numpy
+pandas
+torch
+transformers
+tqdm
+hydra-core
+sklearn 
