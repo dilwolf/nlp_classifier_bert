@@ -33,6 +33,6 @@ This project focuses on training a BERT model for various NLP classification tas
 ## Extra options
 ### Manging Configurations
 * Configuration settings are located in the conf folder. You can modify these files to change the data path, model path, and other parameters. 
-* To customize configurations directly via the command line, use the --help flag to see available options:
-- $ python3 batch_inference.py --help
+* To customize configurations directly via the command line, use the ` --help` flag to see available options:
+- ` $ python batch_inference.py --help`
 This will display the configurable parameters and their usage.
